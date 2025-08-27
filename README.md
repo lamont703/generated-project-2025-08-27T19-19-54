@@ -1,2 +1,10 @@
-# generated-project-2025-08-27T19-19-54
-A new repository for a generated project package.
+# Test Developer Job Project
+This project demonstrates automatic token refresh.
+
+## Key Features
+* Token refresh mechanism
+
+## Getting Started
+1. Review the documentation.
+2. Explore the wireframes.
+3. Interact with the prototype.
